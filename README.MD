@@ -1,5 +1,5 @@
-# Задание 2: "API-тесты" курс ЯндексПрактикум | Diplom_2
-Для тестирования был выбран сервис [Stella Burgers](https://stellarburgers.nomoreparties.site/) | [API Stella Burgers](API_documentation/API_Stella_Burger.pdf)
+# Задание 2: "API-тесты" курс ЯндексПрактикум 
+Для тестирования был выбран сервис [Stella Burgers]https://stellarburgers.education-services.ru/) | [API Stella Burgers](https://code.s3.yandex.net/qa-automation-engineer/python-full/diploma/Api-Stellar_Burgers.pdf)
 
 В связи с грядущим релизом, был покрыт автотестами следующий набор тестов: 
 
